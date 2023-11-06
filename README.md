@@ -23,12 +23,19 @@
 模型｜提问｜回答
 
 ✅gpt-3.5	｜$0.00075 / 1K tokens｜	$0.001 / 1K tokens
+
 ✅gpt-3.5-turbo-instruct	｜$0.00075 / 1K tokens｜	$0.001 / 1K tokens
+
 ✅gpt-3.5-16K	｜$0.0015 / 1K tokens｜	$0.002 / 1K tokens
+
 ✅gpt-4	｜$0.03 / 1K tokens｜	$0.06 / 1K tokens
+
 ✅gpt-4-32K	｜$0.06 / 1K tokens｜	$0.12 / 1K tokens
+
 ✅claude-instant-1（Claude1.3最新版）	｜$0.00163 / 1K tokens｜	$0.00551 / 1K tokens
+
 ✅claude-2（官方商业版，支持100K）	｜$0.01102 / 1K tokens｜	$0.03268 / 1K tokens
+
 以上所有模型的tokens费用均与官方保持一致
 快捷充值
 点击充值页面，选择在线充值，支持支付宝、微信充值，任意一种方式付款后自动秒到账（支持开发票）
