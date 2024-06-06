@@ -45,4 +45,4 @@
 
 ## 访问我们
 
-了解更多详情，请访问我们的官方网站：[https://ai.wlai.vip](https://ai.wlai.vip)
+了解更多详情，请访问我们的官方网站：[https://api.wlai.vip](https://api.wlai.vip)
