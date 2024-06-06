@@ -1,69 +1,48 @@
-云雾-API https://api.ywhttp.com 
-解锁AI的潜力，体验强大的API平台
+# 官 Key 中转 API：支持高并发，稳定快速的最佳选择
 
-⚡
-按量付费
-即刻注册，畅享专属测试额度！按量付费，充值更便捷，查询无烦扰，余额实时掌握。
+在寻找高并发、快速稳定的官 Key 直连 API 吗？绝对不混用，更不会逆向，让您告别猫腻，给客户提供最稳定的使用体验！
 
-📝
-多模型支持
-支持GPT-3.5-Turbo（4K&16K）、GPT-4(8K&32K)、Claude等多种模型，随意选择。
+## 主要特点
 
-🌐
-全球高速访问
-遍布全球的高速动态API节点，为您提供与 OpenAI 官方接口一致的 API 服务，国内即可直接使用。
+- **支持高并发**：无论流量多大，我们都能轻松应对。
+- **快速稳定**：确保您的应用程序始终如一地高效运行。
+- **主流 AI 模型接口兼容**：快速接入，轻松上手。
+- **多种模型支持**：包括 GPT-3.5 和 GPT-4 等最新模型。
 
-🔑
-公平透明计费
-所有模型Tokens费用均与官方一致的计费，公开透明，可查询明细
+## 支持的模型
 
-模型支持情况及价格 注意: 充值比例 ¥:$ 4:1 也就是说比官网便宜一倍
+- **GPT-3.5**: turbo, turbo-0125, turbo-0613, turbo-1106, turbo-16k, turbo-16k-0613, turbo-instruct
+- **GPT-4**: 0125-preview, 0613, 1106-preview, 32k, 32k-0613, gizmo-*, turbo, turbo-2024-04-09, turbo-preview, vision-preview, gpt-4o, gpt-4o-2024-05-13
+- **360GPT**: S2_V9, pro, turbo, turbo-responsibility-8k
+- **ABAB**: 5.5-chat, 5.5s-chat, 6-chat, 6.5-chat, 6.5s-chat
+- **ChatGLM**: lite, pro, std, turbo
+- **Claude-3**: haiku-20240307, opus-20240229, sonnet-20240229
+- **Command**: light, light-nightly, nightly, r, r-plus
+- **DALL-E**: 3
+- **Embedding**: s1_v1, bert-512-v1, V1
+- **ERNIE**: 3.5-8K, 4.0-8K, Character-8K, Functions-8K, Lite-8K, Speed-128K, Speed-8K, Tiny-8K
+- **Gemini**: 1.0-pro-001, 1.0-pro-latest, 1.0-pro-vision-001, 1.0-pro-vision-latest, 1.5-flash-latest, 1.5-pro-latest, ultra
+- **GLM**: 3-turbo, 4, 4v
+- **Hunyuan**: 系列
+- **Llama-3**: 70b-instruct, 8b-instruct, sonar-large-32k-chat, sonar-large-32k-online, sonar-small-32k-chat, sonar-small-32k-online, 7b
+- **Mixtral**: 8x7b-instruct
+- **MidJourney**: blend, custom_zoom, describe, high_variation, imagine, inpaint, low_variation, modal, pan, reroll, shorten, uploads, upscale, variation, zoom
+- **Moonshot**: v1-128k, v1-32k, v1-8k
+- **PaLM-2**: 系列
+- **Qwen**: max, max-longcontext, plus, turbo
+- **Semantic Similarity**: s1_v1
+- **SparkDesk**: v1.1, v2.1, v3.1, v3.5
+- **Swap Face**: 系列
+- **Text Embedding**: 3-large, 3-small, ada-002, v1
+- **TTS**: 1, 1-1106, 1-hd, 1-hd-1106
+- **Whisper**: 1
+- **Yi**: large, large-preview, large-rag, large-rag-preview, large-turbo, medium, medium-200k, spark, vision
 
-模型｜提问｜回答
+## 免费试用和优惠
 
-✅gpt-3.5	｜$0.00075 / 1K tokens｜	$0.001 / 1K tokens
+- 注册即送 0.2 美元体验额度，欢迎体验。
+- 量大更有优惠，只需 0.89 充值 1 美元。
 
-✅gpt-3.5-turbo-instruct	｜$0.00075 / 1K tokens｜	$0.001 / 1K tokens
+## 访问我们
 
-✅gpt-3.5-16K	｜$0.0015 / 1K tokens｜	$0.002 / 1K tokens
-
-✅gpt-4	｜$0.03 / 1K tokens｜	$0.06 / 1K tokens
-
-✅gpt-4-32K	｜$0.06 / 1K tokens｜	$0.12 / 1K tokens
-
-✅claude-instant-1（Claude1.3最新版）	｜$0.00163 / 1K tokens｜	$0.00551 / 1K tokens
-
-✅claude-2（官方商业版，支持100K）	｜$0.01102 / 1K tokens｜	$0.03268 / 1K tokens
-
-以上所有模型的tokens费用均与官方保持一致
-快捷充值
-点击充值页面，选择在线充值，支持支付宝、微信充值，任意一种方式付款后自动秒到账（支持开发票）
-
-快速使用
-前往 https://api.ywhttp.com  在令牌界面，点击“添加新的令牌”按钮，创建你自己的API KEY
-
-修改应用 BASE_URL为中转接口地址：https://api.ywhttp.com，再添加你的API key就行了
-
-便宜chatgpt key  
-便宜chatgpt4.0key 
-chatgpt api key如何获取
-chatgpt key购买
-chatgpt api key价格
-chatgpt api key怎么用
-openai api key共享
-openai api key购买
-openai api key怎么获取
-ChatGPT API key free
-OpenAI API key
-OpenAI API key free
-免费chatgpt key
-
-在今天的全球化世界中，无论您是一位开发者，研究者，创新者还是企业家，ChatGPT 4.0的强大功能都将成为您的得力助手。作为人工智能领域的一颗璀璨之星，ChatGPT 4.0已经深深地改变了我们的工作方式和生活方式。而现在，我们为您带来一个全新的途径，让您更便捷、更经济地使用ChatGPT 4.0 —— 我们的API中转站！
-
-我们的API中转站旨在将最好的聊天机器人技术带给每一个需要的人。在这里，您可以享受到ChatGPT 4.0 api key的优惠价格，省去原本高昂的成本。并且，我们提供了一个简单且易于使用的界面，无需复杂的操作，只需几个简单的步骤，您就可以开始与ChatGPT 4.0进行交流了。
-
-我们的API中转站不仅仅提供优惠的价格，更提供了高效稳定的服务。无论是你要处理大量的语言数据，还是需要进行精细的对话设计，我们的中转站都能保证流畅、稳定的运行。不论何时何地，ChatGPT 4.0都能为你提供及时、准确的回答，助力你的业务或学术研究。
-
-在这个信息爆炸的时代，我们需要更加智能、更加便捷的工具来帮助我们。现在，让我们一起探索ChatGPT 4.0的无限可能性，走进API中转站，开启全新的AI之旅吧！
-
-尾声： 我们期待与您的合作，一起携手创造更加美好的未来。现在就访问我们的API中转站，体验ChatGPT 4.0的强大功能吧！
+了解更多详情，请访问我们的官方网站：[https://ai.wlai.vip](https://ai.wlai.vip)
