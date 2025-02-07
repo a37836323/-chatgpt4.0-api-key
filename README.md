@@ -15,7 +15,7 @@
 >
 >[一🌟 购买APIKEY](https://yunwu.ai/topup)
 >
->[二🌟 使用APIKEY](https://yunwu.ai/about)
+>[二🌟 领取免费key](https://free.yunwu.ai)
 >
 >>[2.1 免费镜像 LobeChat|NextChat 开箱即用](https://github.com/a37836323/-chatgpt4.0-api-key?tab=readme-ov-file#21-%E5%85%8D%E8%B4%B9%E9%95%9C%E5%83%8F%E6%9C%8D%E5%8A%A1)
 >>
