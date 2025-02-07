@@ -2,7 +2,7 @@
 <div align="center">
 
 <h1 align="center">🌥️ 云雾API -FREE 🌥️ OpenAI官方中转服务</h1>
-<h1 align="center">🔥 官方直连 1:1 价格 🔥 1元=1$ Token 🔥 稳定快速 高性价比！🔥</h1>
+<h1 align="center">🔥 官方直连 1:1 价格 🔥 0.5元=1$ Token 🔥 稳定快速 高性价比！🔥</h1>
 <h2 align="center">支持 gpt-3.5 gpt-4.0 gpt-4o gpt-4o-mini 等207+模型</h2>
 </div>
 
@@ -36,7 +36,7 @@
 
 # 🎯 模型及超低定价 🎯
 ## 支持 GPT3.5、GPT4.0、GTP4o、text-embedding 等227+模型
-云雾API致力于提供最稳定、最具性价比的企业级AI服务。我们的定价策略简单透明，按照OpenAI官方价格1:1计费，1元=1$ Token，所有模型均对标官网定价。
+云雾API致力于提供最稳定、最具性价比的企业级AI服务。我们的定价策略简单透明，按照OpenAI官方价格1:1计费，0.5元=1$ Token，所有模型均对标官网定价。
 
 | 模型 | 提问价格 | 回答价格 | 云雾定价 | 并发请求 |
 | --- | --- | --- | --- | --- |
