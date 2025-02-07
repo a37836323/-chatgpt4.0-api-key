@@ -1,36 +1,32 @@
 
 <div align="center">
 
-<h1 align="center">🌥️ 云雾API -FREE 🌥️ OpenAI官方中转服务</h1>
-<h1 align="center">🔥 官方直连 1:1 价格 🔥 0.5元=1$ Token 🔥 稳定快速 高性价比！🔥</h1>
-<h2 align="center">支持 gpt-3.5 gpt-4.0 gpt-4o gpt-4o-mini 等207+模型</h2>
+<h1 align="center">🎁 免费领取 API KEY - <a href="https://free.yunwu.ai" style="font-size: 1.2em; color: #ff6b6b;">点击这里</a> 🎁</h1>
+
+<h1 align="center">🌥️ 云雾API - OpenAI官方中转服务 🌥️</h1>
+<h2 align="center">支持 GPT-3.5、GPT-4.0、GPT-4V、Claude 等207+模型</h2>
 </div>
 
 # 🚀 快速导航 🚀
->
->[一🌟 购买APIKEY](https://yunwu.ai/topup)
->
->[二🌟 领取免费key](https://free.yunwu.ai)
->
->>[2.1 免费镜像 LobeChat|NextChat 开箱即用](https://github.com/a37836323/-chatgpt4.0-api-key?tab=readme-ov-file#21-%E5%85%8D%E8%B4%B9%E9%95%9C%E5%83%8F%E6%9C%8D%E5%8A%A1)
->>
->>[2.2 其他三方客户端配置指南](https://github.com/a37836323/-chatgpt4.0-api-key?tab=readme-ov-file#22-%E5%85%B6%E4%BB%96%E4%B8%89%E6%96%B9%E5%AE%A2%E6%88%B7%E7%AB%AF%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97)
->>
->>[2.3 程序开发 Python示例代码](https://github.com/a37836323/-chatgpt4.0-api-key?tab=readme-ov-file#23-%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91-python%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81)
->>
->[三🌟 自助充值、查询APIKEY余额及明细](https://chaxun.wlai.vip)
->
->[四🌟 其他常见问题](https://yunwu.ai/about)
->
 
-<div align="center">
+>[一✨ 免费资源](https://free.yunwu.ai)
+>>[1.1 免费API KEY申请](https://free.yunwu.ai)
+>>
+>>[1.2 免费镜像服务](https://github.com/a37836323/-chatgpt4.0-api-key?tab=readme-ov-file#21-%E5%85%8D%E8%B4%B9%E9%95%9C%E5%83%8F%E6%9C%8D%E5%8A%A1)
+>
+>[二✨ 开发资源](https://github.com/a37836323/-chatgpt4.0-api-key?tab=readme-ov-file#23-%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91-python%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81)
+>>[2.1 三方客户端配置指南](https://github.com/a37836323/-chatgpt4.0-api-key?tab=readme-ov-file#22-%E5%85%B6%E4%BB%96%E4%B8%89%E6%96%B9%E5%AE%A2%E6%88%B7%E7%AB%AF%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97)
+>>
+>>[2.2 Python示例代码](https://github.com/a37836323/-chatgpt4.0-api-key?tab=readme-ov-file#23-%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91-python%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81)
+>
+>[三✨ 账户管理](https://chaxun.wlai.vip)
+>>[3.1 购买API KEY](https://yunwu.ai/topup)
+>>
+>>[3.2 查询余额及明细](https://chaxun.wlai.vip)
+>
+>[四✨ 帮助中心](https://yunwu.ai/about)
 
-<h2 align="center">1元起自助充值 <a href=https://yunwu.ai>yunwu.ai</a> 中文助记：云雾API</h2>
 
-全球动态加速 | 企业级稳定 | 多节点负载均衡 | 零封号风险 | 直连无需代理 | 极简注册流程 | 7x24小时客服
-<p>
-<img src="https://github.com/user-attachments/assets/c1096e43-f4a7-4739-bf5c-2451450d4144" width = "600"  alt="banner"/>
-</div>
 
 
 
