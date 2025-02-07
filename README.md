@@ -47,9 +47,24 @@
 
 ## 二🌟 使用APIKEY
 ### 2.1 免费镜像服务
-- LobeChat: [https://lobechat.yunwu.ai](https://web.apiplus.org)
-- NextChat: [https://nextchat.yunwu.ai](https://web.apiplus.org)
-
+- chatgpt-web-mj: [https://web.apiplus.org](https://web.apiplus.org)
+- Lobe Chat: [https://lobechatone.zeabur.app](https://lobechatone.zeabur.app)
+- ChatGPT Next Web: [https://app.nextchat.dev](https://app.nextchat.dev)
+### 2.2 其他三方客户端配置指南
+-  CLAUDE DEV 配置教程 [https://yunwu.apifox.cn/doc-5459055](https://yunwu.apifox.cn/doc-5459055)
+-  chatgpt-on-wechat 配置教程 [https://yunwu.apifox.cn/doc-5459056](https://yunwu.apifox.cn/doc-5459056)
+-  沉浸式翻译 设置gpt翻译 [https://yunwu.apifox.cn/doc-5459057](https://yunwu.apifox.cn/doc-5459057)
+-  nextchat 设置教程 [https://yunwu.apifox.cn/doc-5459059](https://yunwu.apifox.cn/doc-5459059)
+-  aider 配置教程 [https://yunwu.apifox.cn/doc-5459060](https://yunwu.apifox.cn/doc-5459060)
+-  Cursor 配置教程 [https://yunwu.apifox.cn/doc-5459061](https://yunwu.apifox.cn/doc-5459061)
+-  lobechat 设置教程 [https://yunwu.apifox.cn/doc-5459062](https://yunwu.apifox.cn/doc-5459062)
+-  chatgpt GPT Academic 学术优化配置gpt教程 [https://yunwu.apifox.cn/doc-5459063](https://yunwu.apifox.cn/doc-5459063)
+-  zotero gpt 配置方法 [https://yunwu.apifox.cn/doc-5459064](https://yunwu.apifox.cn/doc-5459064)
+-  浏览器插件ChatGPT Sidebar [https://yunwu.apifox.cn/doc-5459066](https://yunwu.apifox.cn/doc-5459066)
+-  ChatBox(推荐使用) [https://yunwu.apifox.cn/doc-5459067](https://yunwu.apifox.cn/doc-5459067)
+-  开源gpt_academic教程 [https://yunwu.apifox.cn/doc-5459068](https://yunwu.apifox.cn/doc-5459068)
+-  dify添加模型 教程 [https://yunwu.apifox.cn/doc-5900725](https://yunwu.apifox.cn/doc-5900725)
+-  cline 配置教程  [https://yunwu.apifox.cn/doc-5901956](https://yunwu.apifox.cn/doc-5901956)
 
 ## 三🌟 查询余额
 访问 [点击查询](https://chaxun.wlai.vip) 实时查询APIKEY余额及消费明细
