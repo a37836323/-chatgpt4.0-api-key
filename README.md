@@ -69,32 +69,19 @@
 
 ### 2.3 程序开发 Python示例代码
 -  python openai官方库（使用AutoGPT，langchain等） [https://yunwu.apifox.cn/doc-5459034](https://yunwu.apifox.cn/doc-5459034)
--  python 连续对话
- [https://yunwu.apifox.cn/doc-5459035](https://yunwu.apifox.cn/doc-5459035)
--  python 使用 语音转文本
- [https://yunwu.apifox.cn/doc-5459036](https://yunwu.apifox.cn/doc-5459036)
--  python 使用文本转语音
- [https://yunwu.apifox.cn/doc-5459037](https://yunwu.apifox.cn/doc-5459037)
--  python 使用Embeddings 向量化
- [https://yunwu.apifox.cn/doc-5459038](https://yunwu.apifox.cn/doc-5459038)
--  python 调用DALL·E
- [https://yunwu.apifox.cn/doc-5459039](https://yunwu.apifox.cn/doc-5459039)
--  python简单调用 openai function-calling demo
- [https://yunwu.apifox.cn/doc-5459040](https://yunwu.apifox.cn/doc-5459040)
--  python 简单langchain 调用openai demo
- [https://yunwu.apifox.cn/doc-5459053](https://yunwu.apifox.cn/doc-5459053)
--  python llama_index 配置
- [https://yunwu.apifox.cn/doc-5459054](https://yunwu.apifox.cn/doc-5459054)
--  Python使用gpt-4o识别图片-本地图片
- [https://yunwu.apifox.cn/doc-5564627](https://yunwu.apifox.cn/doc-5564627)
--  python 库流式输出
- [https://yunwu.apifox.cn/doc-5808445](https://yunwu.apifox.cn/doc-5808445)
--  gpt realtime模型调用
- [https://yunwu.apifox.cn/doc-5918157](https://yunwu.apifox.cn/doc-5918157)
--  Python基础对话
- [https://yunwu.apifox.cn/doc-5459019](https://yunwu.apifox.cn/doc-5459019)
--  Python使用gpt-4o识别图片
- [https://yunwu.apifox.cn/doc-5459020](https://yunwu.apifox.cn/doc-5459020)
+-  python 连续对话 [https://yunwu.apifox.cn/doc-5459035](https://yunwu.apifox.cn/doc-5459035)
+-  python 使用 语音转文本 [https://yunwu.apifox.cn/doc-5459036](https://yunwu.apifox.cn/doc-5459036)
+-  python 使用文本转语音 [https://yunwu.apifox.cn/doc-5459037](https://yunwu.apifox.cn/doc-5459037)
+-  python 使用Embeddings 向量化 [https://yunwu.apifox.cn/doc-5459038](https://yunwu.apifox.cn/doc-5459038)
+-  python 调用DALL·E [https://yunwu.apifox.cn/doc-5459039](https://yunwu.apifox.cn/doc-5459039)
+-  python简单调用 openai function-calling demo [https://yunwu.apifox.cn/doc-5459040](https://yunwu.apifox.cn/doc-5459040)
+-  python 简单langchain 调用openai demo [https://yunwu.apifox.cn/doc-5459053](https://yunwu.apifox.cn/doc-5459053)
+-  python llama_index 配置 [https://yunwu.apifox.cn/doc-5459054](https://yunwu.apifox.cn/doc-5459054)
+-  Python使用gpt-4o识别图片-本地图片 [https://yunwu.apifox.cn/doc-5564627](https://yunwu.apifox.cn/doc-5564627)
+-  python 库流式输出 [https://yunwu.apifox.cn/doc-5808445](https://yunwu.apifox.cn/doc-5808445)
+-  gpt realtime模型调用 [https://yunwu.apifox.cn/doc-5918157](https://yunwu.apifox.cn/doc-5918157)
+-  Python基础对话 [https://yunwu.apifox.cn/doc-5459019](https://yunwu.apifox.cn/doc-5459019)
+-  Python使用gpt-4o识别图片 [https://yunwu.apifox.cn/doc-5459020](https://yunwu.apifox.cn/doc-5459020)
 -  Python使用Claude识别图片 [https://yunwu.apifox.cn/doc-5459021](https://yunwu.apifox.cn/doc-5459021)
 
 ## 三🌟 查询余额
