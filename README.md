@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<h1 align="center"><img src="https://github.com/user-attachments/assets/c1096e43-f4a7-4739-bf5c-2451450d4144" alt="icon"/>🌥️ 云雾API 🌥️ OpenAI官方中转服务</h1>
+<h1 align="center">🌥️ 云雾API 🌥️ OpenAI官方中转服务</h1>
 <h1 align="center">🔥 官方直连 1:1 价格 🔥 1元=1$ Token 🔥 稳定快速 高性价比！🔥</h1>
 <h2 align="center">支持 gpt-3.5 gpt-4.0 gpt-4o gpt-4o-mini 等207+模型</h2>
 <h2 align="center">5元起自助充值 <a href=https://yunwu.ai>yunwu.ai</a> 中文助记：云雾API</h2>
