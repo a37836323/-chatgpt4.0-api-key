@@ -4,7 +4,7 @@
 <h1 align="center">🌥️ 云雾API -FREE 🌥️ OpenAI官方中转服务</h1>
 <h1 align="center">🔥 官方直连 1:1 价格 🔥 1元=1$ Token 🔥 稳定快速 高性价比！🔥</h1>
 <h2 align="center">支持 gpt-3.5 gpt-4.0 gpt-4o gpt-4o-mini 等207+模型</h2>
-
+</div>
 # 🚀 快速导航 🚀
 >
 >[一🌟 购买APIKEY](https://yunwu.ai/topup)
@@ -21,7 +21,7 @@
 >
 >[四🌟 其他常见问题](https://yunwu.ai/about)
 
-
+<div align="center">
 
 <h2 align="center">1元起自助充值 <a href=https://yunwu.ai>yunwu.ai</a> 中文助记：云雾API</h2>
 
