@@ -1,15 +1,9 @@
 
 <div align="center">
 
-<h1 align="center">🌥️ 云雾API 🌥️ OpenAI官方中转服务</h1>
+<h1 align="center">🌥️ 云雾API -FREE 🌥️ OpenAI官方中转服务</h1>
 <h1 align="center">🔥 官方直连 1:1 价格 🔥 1元=1$ Token 🔥 稳定快速 高性价比！🔥</h1>
 <h2 align="center">支持 gpt-3.5 gpt-4.0 gpt-4o gpt-4o-mini 等207+模型</h2>
-<h2 align="center">1元起自助充值 <a href=https://yunwu.ai>yunwu.ai</a> 中文助记：云雾API</h2>
-
-全球动态加速 | 企业级稳定 | 多节点负载均衡 | 零封号风险 | 直连无需代理 | 极简注册流程 | 7x24小时客服
-<p>
-<img src="https://github.com/user-attachments/assets/c1096e43-f4a7-4739-bf5c-2451450d4144" width = "600"  alt="banner"/>
-</div>
 
 # 🚀 快速导航 🚀
 >
@@ -26,6 +20,17 @@
 >[三🌟 自助充值、查询APIKEY余额及明细](https://chaxun.wlai.vip)
 >
 >[四🌟 其他常见问题](https://yunwu.ai/about)
+
+
+
+<h2 align="center">1元起自助充值 <a href=https://yunwu.ai>yunwu.ai</a> 中文助记：云雾API</h2>
+
+全球动态加速 | 企业级稳定 | 多节点负载均衡 | 零封号风险 | 直连无需代理 | 极简注册流程 | 7x24小时客服
+<p>
+<img src="https://github.com/user-attachments/assets/c1096e43-f4a7-4739-bf5c-2451450d4144" width = "600"  alt="banner"/>
+</div>
+
+
 
 # 🎯 模型及超低定价 🎯
 ## 支持 GPT3.5、GPT4.0、GTP4o、text-embedding 等227+模型
