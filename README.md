@@ -4,7 +4,7 @@
 <h1 align="center">🎁 免费领取 API KEY - <a href="https://free.yunwu.ai" style="font-size: 1.2em; color: #ff6b6b;">点击这里</a> 🎁</h1>
 
 <h1 align="center">🌥️ 云雾API - OpenAI官方中转服务 🌥️</h1>
-<h2 align="center">支持 GPT-3.5、GPT-4.0、GPT-4V、Claude 等207+模型</h2>
+<h2 align="center">支持 GPT-3.5、GPT-4.0、GPT-4V、Claude 等200+模型</h2>
 </div>
 
 # 🚀 快速导航 🚀
